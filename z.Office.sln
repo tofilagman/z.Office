@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "z.Office.FoxPro", "z.Office.FoxPro\z.Office.FoxPro.csproj", "{5ECF2FAB-2E29-480C-9A0B-C8C02C18986D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "z.Office.Open", "z.Office.Open\z.Office.Open\z.Office.Open.csproj", "{C4A15C06-E992-4917-86E4-6CC9D050E5FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "z.Office.PDF", "z.Office.PDF\z.Office.PDF\z.Office.PDF.csproj", "{B7DA550D-92C4-4FC7-8E03-C23298B109FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "z.Office.Microsoft", "z.Office.Microsoft\z.Office.Microsoft.csproj", "{6C3AA468-F263-4B47-90AC-EF5A050677AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ECF2FAB-2E29-480C-9A0B-C8C02C18986D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ECF2FAB-2E29-480C-9A0B-C8C02C18986D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ECF2FAB-2E29-480C-9A0B-C8C02C18986D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5ECF2FAB-2E29-480C-9A0B-C8C02C18986D}.Debug|x64.Build.0 = Debug|Any CPU
+		{5ECF2FAB-2E29-480C-9A0B-C8C02C18986D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ECF2FAB-2E29-480C-9A0B-C8C02C18986D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ECF2FAB-2E29-480C-9A0B-C8C02C18986D}.Release|x64.ActiveCfg = Release|Any CPU
+		{5ECF2FAB-2E29-480C-9A0B-C8C02C18986D}.Release|x64.Build.0 = Release|Any CPU
+		{C4A15C06-E992-4917-86E4-6CC9D050E5FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4A15C06-E992-4917-86E4-6CC9D050E5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4A15C06-E992-4917-86E4-6CC9D050E5FD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C4A15C06-E992-4917-86E4-6CC9D050E5FD}.Debug|x64.Build.0 = Debug|Any CPU
+		{C4A15C06-E992-4917-86E4-6CC9D050E5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4A15C06-E992-4917-86E4-6CC9D050E5FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4A15C06-E992-4917-86E4-6CC9D050E5FD}.Release|x64.ActiveCfg = Release|Any CPU
+		{C4A15C06-E992-4917-86E4-6CC9D050E5FD}.Release|x64.Build.0 = Release|Any CPU
+		{B7DA550D-92C4-4FC7-8E03-C23298B109FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7DA550D-92C4-4FC7-8E03-C23298B109FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7DA550D-92C4-4FC7-8E03-C23298B109FC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B7DA550D-92C4-4FC7-8E03-C23298B109FC}.Debug|x64.Build.0 = Debug|Any CPU
+		{B7DA550D-92C4-4FC7-8E03-C23298B109FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7DA550D-92C4-4FC7-8E03-C23298B109FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7DA550D-92C4-4FC7-8E03-C23298B109FC}.Release|x64.ActiveCfg = Release|Any CPU
+		{B7DA550D-92C4-4FC7-8E03-C23298B109FC}.Release|x64.Build.0 = Release|Any CPU
+		{6C3AA468-F263-4B47-90AC-EF5A050677AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C3AA468-F263-4B47-90AC-EF5A050677AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C3AA468-F263-4B47-90AC-EF5A050677AB}.Debug|x64.ActiveCfg = Debug|x64
+		{6C3AA468-F263-4B47-90AC-EF5A050677AB}.Debug|x64.Build.0 = Debug|x64
+		{6C3AA468-F263-4B47-90AC-EF5A050677AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C3AA468-F263-4B47-90AC-EF5A050677AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C3AA468-F263-4B47-90AC-EF5A050677AB}.Release|x64.ActiveCfg = Release|x64
+		{6C3AA468-F263-4B47-90AC-EF5A050677AB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tofilagman.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = z.Office.FoxPro\\z.Office.FoxPro.csproj
+		SccProjectName1 = z.Office.FoxPro
+		SccLocalPath1 = z.Office.FoxPro
+		SccProjectUniqueName2 = z.Office.Microsoft\\z.Office.Microsoft.csproj
+		SccProjectName2 = z.Office.Microsoft
+		SccLocalPath2 = z.Office.Microsoft
+		SccProjectUniqueName3 = z.Office.Open\\z.Office.Open\\z.Office.Open.csproj
+		SccProjectName3 = z.Office.Open/z.Office.Open
+		SccLocalPath3 = z.Office.Open\\z.Office.Open
+		SccProjectUniqueName4 = z.Office.PDF\\z.Office.PDF\\z.Office.PDF.csproj
+		SccProjectName4 = z.Office.PDF/z.Office.PDF
+		SccLocalPath4 = z.Office.PDF\\z.Office.PDF
+	EndGlobalSection
+EndGlobal

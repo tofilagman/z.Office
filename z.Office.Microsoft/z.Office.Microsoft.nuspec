@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>z.Office.Microsoft</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>tofilagman</authors>
+    <owners>tofilagman</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Microsoft Office helper for Excel Type Documents</description>
+    <releaseNotes>First Release</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Office Application Utility helper Microsoft</tags>
+  </metadata>
+</package>
